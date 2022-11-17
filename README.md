@@ -1,1 +1,1 @@
-# credit-card-checker
+# number-guesser
